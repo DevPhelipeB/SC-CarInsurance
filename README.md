@@ -1,2 +1,2 @@
 # SC-CarInsurance
-Sample Car Insurance Solidity Ethereu Blockchain
+Sample Car Insurance Solidity Ethereum Blockchain
